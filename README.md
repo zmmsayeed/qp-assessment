@@ -145,7 +145,7 @@ Requisites:
 	docker-compose up --build
 	```
 
-#### API endpoints and example for each of the functionality is given below!
+#### API endpoints and example for each of the functionality is shown above!
 
 ## Thank you!
 
