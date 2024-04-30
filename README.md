@@ -75,7 +75,7 @@ ___
 ## How to run the application?
 Clone the repository:
 ```bash
-git clone <url>
+git clone https://github.com/zmmsayeed/qp-assessment.git
 ```
 Install the dependencies:
 ```bash
